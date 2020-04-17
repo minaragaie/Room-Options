@@ -1,0 +1,21 @@
+{
+  "name": "design",
+  "authors": [
+    "minaragaie@hotmail.com"
+  ],
+  "description": "booking engine",
+  "main": "",
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  "pickadate":"latest"
+
+  }
+}

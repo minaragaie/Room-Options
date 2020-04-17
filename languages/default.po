@@ -1,0 +1,486 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Room Options\n"
+"POT-Creation-Date: 2014-03-20 18:41+0700\n"
+"PO-Revision-Date: 2014-03-20 18:41+0700\n"
+"Last-Translator: \n"
+"Language-Team: raybreaker\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../db-modifications.php:10 ../db-modifications.php:35
+#: ../db-modifications.php:60 ../db-modifications.php:181
+#: ../db-modifications.php:234 ../db-modifications.php:392
+#: ../import-export.php:142
+msgid "You are not allowed to be on this page."
+msgstr ""
+
+#: ../db-modifications.php:113
+msgid "You can't made reservation on the date that already has passed."
+msgstr ""
+
+#: ../db-modifications.php:117
+msgid ""
+"You can't create this reservation as room don't available on selected dates. "
+"To made this room available please visit Dashboard > Room Options > "
+"Availability/Price."
+msgstr ""
+
+#: ../db-modifications.php:121
+msgid ""
+"You can't create this reservation as the room was already booked on the "
+"selected dates."
+msgstr ""
+
+#: ../db-modifications.php:125
+msgid ""
+"You can't create this reservation as the number of rooms available on this "
+"date less than requested number."
+msgstr ""
+
+#: ../db-modifications.php:133
+msgid "Check out date should be larger than Check in date"
+msgstr ""
+
+#: ../db-modifications.php:167
+#, php-format
+msgid "<a href='%s'>Return on previous page</a>"
+msgstr ""
+
+#: ../import-export.php:149
+msgid "No file found"
+msgstr ""
+
+#: ../import-export.php:155
+#, php-format
+msgid ""
+"There was an error importing the logs. File type detected: '%s'. 'text/xml' "
+"expected"
+msgstr ""
+
+#: ../import-export.php:160
+#, php-format
+msgid "File size too large (%s). Maximum 2MB"
+msgstr ""
+
+#: ../import-export.php:164
+#, php-format
+msgid "Error encountered: %d"
+msgstr ""
+
+#: ../hotel-booking.php:31
+msgid "New Calendar"
+msgstr ""
+
+#: ../hotel-booking.php:126
+msgid "Current Calendars:"
+msgstr ""
+
+#: ../hotel-booking.php:133 ../hotel-booking.php:532
+msgid "Id"
+msgstr ""
+
+#: ../hotel-booking.php:133 ../hotel-booking.php:166
+msgid "Calendar Name"
+msgstr ""
+
+#: ../hotel-booking.php:133 ../hotel-booking.php:167
+msgid "Min Price"
+msgstr ""
+
+#: ../hotel-booking.php:136
+msgid "Edit"
+msgstr ""
+
+#: ../hotel-booking.php:139 ../hotel-booking.php:615
+#: ../hotel-booking.php:631
+msgid "Delete"
+msgstr ""
+
+#: ../hotel-booking.php:150 ../hotel-booking.php:169
+#: ../hotel-booking.php:410 ../hotel-booking.php:707
+msgid "Submit"
+msgstr ""
+
+#: ../hotel-booking.php:151 ../hotel-booking.php:599
+msgid "Cancel"
+msgstr ""
+
+#: ../hotel-booking.php:157
+msgid ""
+"There's no calendars found. You can create new calendars using form below."
+msgstr ""
+
+#: ../hotel-booking.php:162
+msgid "Create New Calendar:"
+msgstr ""
+
+#: ../hotel-booking.php:179 ../hotel-booking.php:445
+msgid "Select Calendar:"
+msgstr ""
+
+#: ../hotel-booking.php:216 ../hotel-booking.php:232
+msgid "January"
+msgstr ""
+
+#: ../hotel-booking.php:217 ../hotel-booking.php:233
+msgid "February"
+msgstr ""
+
+#: ../hotel-booking.php:218 ../hotel-booking.php:234
+msgid "March"
+msgstr ""
+
+#: ../hotel-booking.php:219 ../hotel-booking.php:235
+msgid "April"
+msgstr ""
+
+#: ../hotel-booking.php:220 ../hotel-booking.php:236
+msgid "May"
+msgstr ""
+
+#: ../hotel-booking.php:221 ../hotel-booking.php:237
+msgid "June"
+msgstr ""
+
+#: ../hotel-booking.php:222 ../hotel-booking.php:238
+msgid "July"
+msgstr ""
+
+#: ../hotel-booking.php:223 ../hotel-booking.php:239
+msgid "August"
+msgstr ""
+
+#: ../hotel-booking.php:224 ../hotel-booking.php:240
+msgid "September"
+msgstr ""
+
+#: ../hotel-booking.php:225 ../hotel-booking.php:241
+msgid "October"
+msgstr ""
+
+#: ../hotel-booking.php:226 ../hotel-booking.php:242
+msgid "November"
+msgstr ""
+
+#: ../hotel-booking.php:227 ../hotel-booking.php:243
+msgid "December"
+msgstr ""
+
+#: ../hotel-booking.php:231
+msgid "Select Month"
+msgstr ""
+
+#: ../hotel-booking.php:319
+msgid "available"
+msgstr ""
+
+#: ../hotel-booking.php:323
+msgid "booked"
+msgstr ""
+
+#: ../hotel-booking.php:401
+msgid "Set/Edit Calendar Data:"
+msgstr ""
+
+#: ../hotel-booking.php:403
+msgid "Start Data"
+msgstr ""
+
+#: ../hotel-booking.php:404
+msgid "End Data"
+msgstr ""
+
+#: ../hotel-booking.php:405
+msgid "Availability"
+msgstr ""
+
+#: ../hotel-booking.php:407 ../hotel-booking.php:539
+msgid "Price"
+msgstr ""
+
+#: ../hotel-booking.php:466
+msgid "Booking System Settings"
+msgstr ""
+
+#: ../hotel-booking.php:471
+msgid "Email:"
+msgstr ""
+
+#: ../hotel-booking.php:472
+msgid "Currency code:"
+msgstr ""
+
+#: ../hotel-booking.php:473
+msgid "Currency symbol:"
+msgstr ""
+
+#: ../hotel-booking.php:474
+msgid "Date format:"
+msgstr ""
+
+#: ../hotel-booking.php:485
+msgid "Hide Tax Info:"
+msgstr ""
+
+#: ../hotel-booking.php:490
+msgid "Add Tax to Price Calculation:"
+msgstr ""
+
+#: ../hotel-booking.php:495
+msgid "Tax:"
+msgstr ""
+
+#: ../hotel-booking.php:495
+msgid "please enter without the percent sign"
+msgstr ""
+
+#: ../hotel-booking.php:497
+msgid "Not confirmed email header:"
+msgstr ""
+
+#: ../hotel-booking.php:498
+msgid "Not confirmed email content:"
+msgstr ""
+
+#: ../hotel-booking.php:499
+msgid "Confirmed email header:"
+msgstr ""
+
+#: ../hotel-booking.php:500
+msgid "Confirmed email content:"
+msgstr ""
+
+#: ../hotel-booking.php:501
+msgid "Canceled email header:"
+msgstr ""
+
+#: ../hotel-booking.php:502
+msgid "Canceled email content:"
+msgstr ""
+
+#: ../hotel-booking.php:503
+msgid "Rejected email header:"
+msgstr ""
+
+#: ../hotel-booking.php:504
+msgid "Rejected email content:"
+msgstr ""
+
+#: ../hotel-booking.php:508
+msgid "Save changes"
+msgstr ""
+
+#: ../hotel-booking.php:525
+msgid "Active Reservations:"
+msgstr ""
+
+#: ../hotel-booking.php:533
+msgid "Status"
+msgstr ""
+
+#: ../hotel-booking.php:534 ../utility-functions.php:75
+msgid "Check In"
+msgstr ""
+
+#: ../hotel-booking.php:535 ../utility-functions.php:76
+msgid "Check Out"
+msgstr ""
+
+#: ../hotel-booking.php:536
+msgid "Visitors"
+msgstr ""
+
+#: ../hotel-booking.php:537 ../hotel-booking.php:655
+#: ../utility-functions.php:82
+msgid "Email"
+msgstr ""
+
+#: ../hotel-booking.php:538
+msgid "Personal Info"
+msgstr ""
+
+#: ../hotel-booking.php:564
+#, php-format
+msgid "Room %d: Adults: %d, Children: %d"
+msgstr ""
+
+#: ../hotel-booking.php:571
+msgid "name:"
+msgstr ""
+
+#: ../hotel-booking.php:572
+msgid "card type:"
+msgstr ""
+
+#: ../hotel-booking.php:573
+msgid "cardholder name:"
+msgstr ""
+
+#: ../hotel-booking.php:574
+msgid "card number:"
+msgstr ""
+
+#: ../hotel-booking.php:575
+msgid "expiration date"
+msgstr ""
+
+#: ../hotel-booking.php:583 ../hotel-booking.php:607
+#: ../hotel-booking.php:623
+msgid "Approve"
+msgstr ""
+
+#: ../hotel-booking.php:591
+msgid "Reject"
+msgstr ""
+
+#: ../hotel-booking.php:644
+msgid "There's no reservation found for this calendar."
+msgstr ""
+
+#: ../hotel-booking.php:648
+msgid "Create New Reservation:"
+msgstr ""
+
+#: ../hotel-booking.php:652
+msgid "Check-in date"
+msgstr ""
+
+#: ../hotel-booking.php:653
+msgid "Check-out date"
+msgstr ""
+
+#: ../hotel-booking.php:654
+msgid "Number of room"
+msgstr ""
+
+#: ../hotel-booking.php:656
+msgid "Adults"
+msgstr ""
+
+#: ../hotel-booking.php:657
+msgid "Children"
+msgstr ""
+
+#: ../hotel-booking.php:658 ../utility-functions.php:80
+msgid "Name"
+msgstr ""
+
+#: ../hotel-booking.php:659 ../utility-functions.php:81
+msgid "Surname"
+msgstr ""
+
+#: ../hotel-booking.php:660 ../utility-functions.php:83
+msgid "Card type"
+msgstr ""
+
+#: ../hotel-booking.php:669 ../utility-functions.php:84
+msgid "Cardholder name"
+msgstr ""
+
+#: ../hotel-booking.php:670 ../utility-functions.php:85
+msgid "Card number"
+msgstr ""
+
+#: ../hotel-booking.php:671
+msgid "Expiration month"
+msgstr ""
+
+#: ../hotel-booking.php:687
+msgid "Expiration year"
+msgstr ""
+
+#: ../hotel-booking.php:703 ../utility-functions.php:87
+msgid "Comments"
+msgstr ""
+
+#: ../hotel-booking.php:720
+msgid "Export/Import Booking System Data"
+msgstr ""
+
+#: ../hotel-booking.php:724
+msgid "Click to export all booking system data"
+msgstr ""
+
+#: ../hotel-booking.php:727
+msgid "Download Booking System Data"
+msgstr ""
+
+#: ../hotel-booking.php:734
+msgid "Data was successfully imported"
+msgstr ""
+
+#: ../hotel-booking.php:736
+msgid " No data were imported"
+msgstr ""
+
+#: ../hotel-booking.php:741
+msgid "Import an .xml file."
+msgstr ""
+
+#: ../hotel-booking.php:745
+msgid "Import Booking System Data"
+msgstr ""
+
+#: ../hotel-booking.php:783
+msgid "Room Options"
+msgstr ""
+
+#: ../hotel-booking.php:784
+msgid "Reservations"
+msgstr ""
+
+#: ../hotel-booking.php:785
+msgid "Availability/Price"
+msgstr ""
+
+#: ../hotel-booking.php:786
+msgid "Settings"
+msgstr ""
+
+#: ../hotel-booking.php:787
+msgid "Import/Export"
+msgstr ""
+
+#: ../utility-functions.php:63
+msgid "Reservation ID"
+msgstr ""
+
+#: ../utility-functions.php:64
+msgid "Calendar ID"
+msgstr ""
+
+#: ../utility-functions.php:65
+msgid "Room Type"
+msgstr ""
+
+#: ../utility-functions.php:66
+msgid "Number of booked items"
+msgstr ""
+
+#: ../utility-functions.php:69
+#, php-format
+msgid "Room %d visitors"
+msgstr ""
+
+#: ../utility-functions.php:69
+msgid "Adults:"
+msgstr ""
+
+#: ../utility-functions.php:69
+msgid "Children:"
+msgstr ""
+
+#: ../utility-functions.php:86
+msgid "Expiration date"
+msgstr ""
+
+#: ../utility-functions.php:91
+msgid "Total"
+msgstr ""
